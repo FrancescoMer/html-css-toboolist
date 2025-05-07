@@ -1,0 +1,116 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f9fa;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: white;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  header img {
+    width: 40px;
+    margin-right: 10px;
+  }
+  
+  h1 {
+    font-size: 1.8rem;
+    margin: 0;
+    color: #333;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 2rem auto;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+  }
+  
+  .toolbar {
+    margin-bottom: 1.5rem;
+  }
+  
+  button {
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    border: none;
+    margin-right: 10px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .add-task {
+    background-color: #18a0fb;
+    color: white;
+  }
+  
+  .add-section {
+    background-color: #eee;
+    color: #999;
+  }
+  
+  .task-section h2 {
+    margin-top: 1.5rem;
+    font-size: 1.2rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  li {
+    margin: 0.6rem 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .check {
+    color: #14b86c;
+    margin-right: 8px;
+  }
+  
+  .cross {
+    color: red;
+    margin-right: 8px;
+  }
+  
+  .tag {
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    border-radius: 10px;
+    margin-left: 10px;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .editorial {
+    background-color: #18a0fb;
+  }
+  
+  .q1goals {
+    background-color: #a259ff;
+  }
+  
+  .recruiting {
+    background-color: #00b388;
+  }
+  
+  .mobile {
+    background-color: #ff9f1c;
+  }
+  
+  .website {
+    background-color: #ff62b0;
+  }
+  
+  .sales {
+    background-color: #c2f970;
+    color: #333;
+  }
